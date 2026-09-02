@@ -100,4 +100,4 @@ if "start" in st.session_state and not st.session_state.get("is_ended", False):
 if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2)
 st.divider()
-st.write("นางสาวดีใจ ยิ้มแย้ม เลขที่ 5 ม.4/5")
+st.write("นายพรหมพิริยะ พรหมเผ่า เลขที่ 22 ม.4/4")
